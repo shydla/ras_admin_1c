@@ -1,0 +1,16 @@
+{
+  "name": "ras-admin-1c",
+  "version": "0.0.1",
+  "description": "CLI for administration 1c ras server.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "1c",
+    "ras",
+    "node"
+  ],
+  "author": "Roman Samsonov",
+  "license": "ISC"
+}
